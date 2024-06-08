@@ -1,0 +1,237 @@
+[
+  {
+    "state": "MA",
+    "cost_of_living": 30877,
+    "average_salary": 197587
+  },
+  {
+    "state": "CA",
+    "cost_of_living": 28381,
+    "average_salary": 277389
+  },
+  {
+    "state": "NY",
+    "cost_of_living": 27742,
+    "average_salary": 230079
+  },
+  {
+    "state": "MD",
+    "cost_of_living": 25576,
+    "average_salary": 146409
+  },
+  {
+    "state": "OR",
+    "cost_of_living": 24999,
+    "average_salary": 187317
+  },
+  {
+    "state": "CT",
+    "cost_of_living": 24091,
+    "average_salary": 117340
+  },
+  {
+    "state": "NH",
+    "cost_of_living": 23947,
+    "average_salary": 112352
+  },
+  {
+    "state": "VT",
+    "cost_of_living": 23905,
+    "average_salary": 134000
+  },
+  {
+    "state": "ME",
+    "cost_of_living": 23782,
+    "average_salary": 93500
+  },
+  {
+    "state": "WA",
+    "cost_of_living": 23555,
+    "average_salary": 251326
+  },
+  {
+    "state": "RI",
+    "cost_of_living": 23287,
+    "average_salary": 130500
+  },
+  {
+    "state": "NJ",
+    "cost_of_living": 23183,
+    "average_salary": 179133
+  },
+  {
+    "state": "AZ",
+    "cost_of_living": 21822,
+    "average_salary": 152173
+  },
+  {
+    "state": "DE",
+    "cost_of_living": 21781,
+    "average_salary": 123777
+  },
+  {
+    "state": "MT",
+    "cost_of_living": 21616,
+    "average_salary": 177333
+  },
+  {
+    "state": "CO",
+    "cost_of_living": 21575,
+    "average_salary": 195936
+  },
+  {
+    "state": "NV",
+    "cost_of_living": 21286,
+    "average_salary": 140461
+  },
+  {
+    "state": "VA",
+    "cost_of_living": 21203,
+    "average_salary": 169213
+  },
+  {
+    "state": "UT",
+    "cost_of_living": 21203,
+    "average_salary": 169242
+  },
+  {
+    "state": "FL",
+    "cost_of_living": 21203,
+    "average_salary": 151859
+  },
+  {
+    "state": "ID",
+    "cost_of_living": 20543,
+    "average_salary": 133076
+  },
+  {
+    "state": "PA",
+    "cost_of_living": 20255,
+    "average_salary": 157815
+  },
+  {
+    "state": "MN",
+    "cost_of_living": 20110,
+    "average_salary": 152528
+  },
+  {
+    "state": "ND",
+    "cost_of_living": 20028,
+    "average_salary": 155666
+  },
+  {
+    "state": "NC",
+    "cost_of_living": 19739,
+    "average_salary": 171589
+  },
+  {
+    "state": "WI",
+    "cost_of_living": 19698,
+    "average_salary": 129878
+  },
+  {
+    "state": "KY",
+    "cost_of_living": 19574,
+    "average_salary": 134571
+  },
+  {
+    "state": "SC",
+    "cost_of_living": 19450,
+    "average_salary": 132090
+  },
+  {
+    "state": "NM",
+    "cost_of_living": 19388,
+    "average_salary": 133285
+  },
+  {
+    "state": "LA",
+    "cost_of_living": 19306,
+    "average_salary": 132238
+  },
+  {
+    "state": "IL",
+    "cost_of_living": 19099,
+    "average_salary": 170487
+  },
+  {
+    "state": "TX",
+    "cost_of_living": 19079,
+    "average_salary": 168259
+  },
+  {
+    "state": "WY",
+    "cost_of_living": 19079,
+    "average_salary": 101000
+  },
+  {
+    "state": "MI",
+    "cost_of_living": 19017,
+    "average_salary": 129009
+  },
+  {
+    "state": "NE",
+    "cost_of_living": 18955,
+    "average_salary": 121285
+  },
+  {
+    "state": "OH",
+    "cost_of_living": 18955,
+    "average_salary": 128711
+  },
+  {
+    "state": "AR",
+    "cost_of_living": 18687,
+    "average_salary": 159236
+  },
+  {
+    "state": "TN",
+    "cost_of_living": 18604,
+    "average_salary": 127619
+  },
+  {
+    "state": "WV",
+    "cost_of_living": 18563,
+    "average_salary": 191500
+  },
+  {
+    "state": "IN",
+    "cost_of_living": 18543,
+    "average_salary": 130102
+  },
+  {
+    "state": "IA",
+    "cost_of_living": 18398,
+    "average_salary": 137714
+  },
+  {
+    "state": "MO",
+    "cost_of_living": 18378,
+    "average_salary": 116065
+  },
+  {
+    "state": "GA",
+    "cost_of_living": 18274,
+    "average_salary": 158050
+  },
+  {
+    "state": "AL",
+    "cost_of_living": 18171,
+    "average_salary": 128157
+  },
+  {
+    "state": "KS",
+    "cost_of_living": 18048,
+    "average_salary": 102222
+  },
+  {
+    "state": "OK",
+    "cost_of_living": 17697,
+    "average_salary": 121800
+  },
+  {
+    "state": "MS",
+    "cost_of_living": 17532,
+    "average_salary": 95000
+  }
+]

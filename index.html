@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Levels.fyi Dashboard</title>
+    <meta charset="UTF-8">
+    <link rel="icon" href="data:;base64,iVBORwOKGO=" />
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div id="tooltip"></div>
+    <div id="tooltipY"></div>
+
+    <main>
+        <h1 id="grand-title" class="box">Levels.fyi Dashboard</h1>
+        <div class="section">
+            <p id="description" class="box">
+                - This is the visualization of data points from Levels.fyi during 2018 to 2022. <br />
+                - View1 interacts with View2 and View4. <br />
+                - When a state at View1 is clicked, bars corresponding changes color on View 4. <br />
+                - When mouse is hovered over on state at View1, all the companies within that state are highlighted on
+                View2. <br />
+                - When mouse is hovered over on company at View2, all the states which have branch of that company are
+                highlighted red. <br />
+                - View2 interacts with View3. <br />
+                - When a company is clicked on View2, position distribution is rendered on View3. <br />
+                - View2 interacts with View3. <br />
+                - View5 shows overall distribution of salary from 2018 to 2022.
+            </p>
+        </div>
+        <div class="section">
+            <div id="usa-map" class="box"></div>
+
+            <div id="packed-circles-container" class="box">
+                <div id="packed-circles-vis-container">
+                    <text id="packed-circle-vis-title">View2: Male Ratio of Each Company</text><br><br>
+                    <select id="companies-selector">
+                        <option value="all">All</option>
+                        <option value="ten"> >= $100,000 </option>
+                        <option value="fifteen"> >= $150,000 </option>
+                        <option value="twenty"> >= $200,000 </option>
+                        <option value="twenty-five"> >= $250,000</option>
+                    </select>
+
+                    <div class="circle-legend-container">
+                        <p class="circle-legend-description">
+                            Male / All Genders:
+                        </p>
+                        <ul class="legend">
+                            <li class="legend-btn" data-gender-ratio="VeryLow"><span class="legend-symbol"></span>Very
+                                Low
+                            </li>
+                            <li class="legend-btn" data-gender-ratio="Low"><span class="legend-symbol"></span> Low</li>
+                            <li class="legend-btn" data-gender-ratio="High"><span class="legend-symbol"></span> High
+                            </li>
+                            <li class="legend-btn" data-gender-ratio="VeryHigh"><span class="legend-symbol"></span> Very
+                                High
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="packed-circles"></div>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="section">
+            <div id="treemap" class="box"></div>
+            <div id="grouped-bar-chart" class="box"></div>
+        </div>
+        <div class="section">
+            <div id="beeswarm" class="box"></div>
+        </div>
+    </main>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="js/treemap.js"></script>
+    <script src="js/usa-map.js"></script>
+    <script src="js/packed-circles.js"></script>
+    <script src="js/beeswarm.js"></script>
+    <script src="js/groupedbarchart.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
