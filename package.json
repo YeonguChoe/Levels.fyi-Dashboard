@@ -1,0 +1,13 @@
+{
+  "name": "levels.fyi-dashboard",
+  "version": "1.0.0",
+  "description": "This is the information visualization of Levels.fyi data from 2018 to 2022.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yeongu Choe",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
